@@ -1,8 +1,8 @@
 # autojs-web
 联系方式 https://chat.950505.xyz/chat/index?noCanClose=1&token=febd54694bae306880e964c233af3bd4&kefu_id=11
 
-2022.12.05
-完成进度85%，可议价。
+2022.12.08
+完成进度100%，可议价。
 
 2022.11.06
 autojs-网页群控。支持强国、学习通、法宣等平台。
