@@ -1,6 +1,9 @@
 # autojs-web
 联系方式 https://chat.950505.xyz/chat/index?noCanClose=1&token=febd54694bae306880e964c233af3bd4&kefu_id=11
 ![image](/微信图片_20221106012304.jpg)
+2023.2.11
+无限级代理，代理可开通代理。
+
 2022.12.19
 已上线，完成进度100%，可议价。
 
